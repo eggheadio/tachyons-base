@@ -32,7 +32,7 @@ code {
   padding: 0 .25rem;
   margin: 0 .0625rem;
   border-radius: .125rem;
-  color: #191f32 !important;
+  color: #191f32;
   background-color: #f0f1f3;
   white-space: normal;
   vertical-align: baseline;
