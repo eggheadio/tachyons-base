@@ -29,5 +29,12 @@ a {
 }
 
 code {
-  color: #409b6b; /* green-secondary */
+  padding: 0 .25rem;
+  margin: 0 .0625rem;
+  border-radius: .125rem;
+  color: #191f32 !important;
+  background-color: #f0f1f3;
+  white-space: normal;
+  vertical-align: baseline;
+  border: 1px solid #d4d5d6;
 }
